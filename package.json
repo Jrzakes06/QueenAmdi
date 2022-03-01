@@ -1,5 +1,5 @@
 {
-    "name": "queen_amdi",
+    "name": "Kimmy Zakes",
     "version": "3.6.2v",
     "description": "Queen Amdi Bot project - a Whatsapp userbot helping to improve your Whatsapp experience.",
     "main": "./QueenAmdi/assets/module.js",
@@ -13,8 +13,8 @@
     "keywords": [
       "whatsapp"
     ],
-    "author": "Black Amda",
-    "developer": "AN Tech",
+    "author": "Junior Zakeyo",
+    "developer": "Jrzakes06",
     "license": "GPL-3.0-or-later",
     "bugs": {
       "url": "https://github.com/BlackAmda/QueenAmdi/issues"
